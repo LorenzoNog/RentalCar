@@ -1,39 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# RentalCar 🚗🚘
 
-First, run the development server:
+[Frontend] Página web para el alquiler de autos utilizando Next 13, implementando capacidades que éste nos permite como el enrutador y consumiendo una API car.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+# ⚒️ Construída con:
+- Next JS 13
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# ✨ Se utiliza:
+- React
+- Tailwind CSS
+- TypeScript
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+👉 Librerías:
+- headlessui
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+# Se buscó:
+- Implementar la funcionalidad de búsqueda avanzada.
+- Crear filtros de búsqueda y elementos modales.
+- Mantener una estructura de archivos y carpetas bien organizada en conjunto con un código limpio.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# Preview
+[![img1.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1689027672/rentalcar1_lu9ha2.png)]
+[![img2.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1689027671/rentalcar3_ftmppt.png)]
+[![img3.png](https://res.cloudinary.com/dem9ilhyh/image/upload/v1689027671/rentalcar2_jgpyo8.png)]
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# Demo
+- [Ver deploy](https://rental-car-ashen.vercel.app/)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# RentalCar
